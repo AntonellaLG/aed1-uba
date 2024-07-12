@@ -1,0 +1,82 @@
+[
+{
+  "directory": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/ajedrezLite.dir/includes_CXX.rsp -g --coverage -g -o CMakeFiles\\ajedrezLite.dir\\main.obj -c \"C:\\Users\\Fiamma Antonella\\Desktop\\Algoritmos 1\\TP\\TPI\\template-alumnos\\template-alumnos\\main.cpp\"",
+  "file": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/main.cpp"
+},
+{
+  "directory": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/ajedrezLite.dir/includes_CXX.rsp -g --coverage -g -o CMakeFiles\\ajedrezLite.dir\\ejercicios.obj -c \"C:\\Users\\Fiamma Antonella\\Desktop\\Algoritmos 1\\TP\\TPI\\template-alumnos\\template-alumnos\\ejercicios.cpp\"",
+  "file": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/ejercicios.cpp"
+},
+{
+  "directory": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/ajedrezLite.dir/includes_CXX.rsp -g --coverage -g -o CMakeFiles\\ajedrezLite.dir\\auxiliares.obj -c \"C:\\Users\\Fiamma Antonella\\Desktop\\Algoritmos 1\\TP\\TPI\\template-alumnos\\template-alumnos\\auxiliares.cpp\"",
+  "file": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/auxiliares.cpp"
+},
+{
+  "directory": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/ajedrezLite.dir/includes_CXX.rsp -g --coverage -g -o CMakeFiles\\ajedrezLite.dir\\tests\\ej1_posicionValidaTEST.obj -c \"C:\\Users\\Fiamma Antonella\\Desktop\\Algoritmos 1\\TP\\TPI\\template-alumnos\\template-alumnos\\tests\\ej1_posicionValidaTEST.cpp\"",
+  "file": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/tests/ej1_posicionValidaTEST.cpp"
+},
+{
+  "directory": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/ajedrezLite.dir/includes_CXX.rsp -g --coverage -g -o CMakeFiles\\ajedrezLite.dir\\tests\\ej2_posicionInicialValidaTEST.obj -c \"C:\\Users\\Fiamma Antonella\\Desktop\\Algoritmos 1\\TP\\TPI\\template-alumnos\\template-alumnos\\tests\\ej2_posicionInicialValidaTEST.cpp\"",
+  "file": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/tests/ej2_posicionInicialValidaTEST.cpp"
+},
+{
+  "directory": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/ajedrezLite.dir/includes_CXX.rsp -g --coverage -g -o CMakeFiles\\ajedrezLite.dir\\tests\\ej3_casillasAtacadasTEST.obj -c \"C:\\Users\\Fiamma Antonella\\Desktop\\Algoritmos 1\\TP\\TPI\\template-alumnos\\template-alumnos\\tests\\ej3_casillasAtacadasTEST.cpp\"",
+  "file": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/tests/ej3_casillasAtacadasTEST.cpp"
+},
+{
+  "directory": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/ajedrezLite.dir/includes_CXX.rsp -g --coverage -g -o CMakeFiles\\ajedrezLite.dir\\tests\\ej4_posicionSiguienteCorrectaTEST.obj -c \"C:\\Users\\Fiamma Antonella\\Desktop\\Algoritmos 1\\TP\\TPI\\template-alumnos\\template-alumnos\\tests\\ej4_posicionSiguienteCorrectaTEST.cpp\"",
+  "file": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/tests/ej4_posicionSiguienteCorrectaTEST.cpp"
+},
+{
+  "directory": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/ajedrezLite.dir/includes_CXX.rsp -g --coverage -g -o CMakeFiles\\ajedrezLite.dir\\tests\\ej5_ordenarTableroTEST.obj -c \"C:\\Users\\Fiamma Antonella\\Desktop\\Algoritmos 1\\TP\\TPI\\template-alumnos\\template-alumnos\\tests\\ej5_ordenarTableroTEST.cpp\"",
+  "file": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/tests/ej5_ordenarTableroTEST.cpp"
+},
+{
+  "directory": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/ajedrezLite.dir/includes_CXX.rsp -g --coverage -g -o CMakeFiles\\ajedrezLite.dir\\tests\\ej6_finDeLaPartidaTEST.obj -c \"C:\\Users\\Fiamma Antonella\\Desktop\\Algoritmos 1\\TP\\TPI\\template-alumnos\\template-alumnos\\tests\\ej6_finDeLaPartidaTEST.cpp\"",
+  "file": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/tests/ej6_finDeLaPartidaTEST.cpp"
+},
+{
+  "directory": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/ajedrezLite.dir/includes_CXX.rsp -g --coverage -g -o CMakeFiles\\ajedrezLite.dir\\tests\\ej7_hayJaqueDescubiertoTEST.obj -c \"C:\\Users\\Fiamma Antonella\\Desktop\\Algoritmos 1\\TP\\TPI\\template-alumnos\\template-alumnos\\tests\\ej7_hayJaqueDescubiertoTEST.cpp\"",
+  "file": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/tests/ej7_hayJaqueDescubiertoTEST.cpp"
+},
+{
+  "directory": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/ajedrezLite.dir/includes_CXX.rsp -g --coverage -g -o CMakeFiles\\ajedrezLite.dir\\tests\\ej8_ejecutarSecuenciaForzadaTEST.obj -c \"C:\\Users\\Fiamma Antonella\\Desktop\\Algoritmos 1\\TP\\TPI\\template-alumnos\\template-alumnos\\tests\\ej8_ejecutarSecuenciaForzadaTEST.cpp\"",
+  "file": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/tests/ej8_ejecutarSecuenciaForzadaTEST.cpp"
+},
+{
+  "directory": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/ajedrezLite.dir/includes_CXX.rsp -g --coverage -g -o CMakeFiles\\ajedrezLite.dir\\tests\\ej9_seVieneElJaqueEnTEST.obj -c \"C:\\Users\\Fiamma Antonella\\Desktop\\Algoritmos 1\\TP\\TPI\\template-alumnos\\template-alumnos\\tests\\ej9_seVieneElJaqueEnTEST.cpp\"",
+  "file": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/tests/ej9_seVieneElJaqueEnTEST.cpp"
+},
+{
+  "directory": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/build/lib/googletest-master/googletest-master/googlemock",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/gmock.dir/includes_CXX.rsp -g  -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c \"C:\\Users\\Fiamma Antonella\\Desktop\\Algoritmos 1\\TP\\TPI\\template-alumnos\\template-alumnos\\lib\\googletest-master\\googletest-master\\googlemock\\src\\gmock-all.cc\"",
+  "file": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/lib/googletest-master/googletest-master/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/build/lib/googletest-master/googletest-master/googlemock",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/gmock_main.dir/includes_CXX.rsp -g  -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c \"C:\\Users\\Fiamma Antonella\\Desktop\\Algoritmos 1\\TP\\TPI\\template-alumnos\\template-alumnos\\lib\\googletest-master\\googletest-master\\googlemock\\src\\gmock_main.cc\"",
+  "file": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/lib/googletest-master/googletest-master/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/build/lib/googletest-master/googletest-master/googlemock/gtest",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/gtest.dir/includes_CXX.rsp -g  -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c \"C:\\Users\\Fiamma Antonella\\Desktop\\Algoritmos 1\\TP\\TPI\\template-alumnos\\template-alumnos\\lib\\googletest-master\\googletest-master\\googletest\\src\\gtest-all.cc\"",
+  "file": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/lib/googletest-master/googletest-master/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/build/lib/googletest-master/googletest-master/googlemock/gtest",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/gtest_main.dir/includes_CXX.rsp -g  -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c \"C:\\Users\\Fiamma Antonella\\Desktop\\Algoritmos 1\\TP\\TPI\\template-alumnos\\template-alumnos\\lib\\googletest-master\\googletest-master\\googletest\\src\\gtest_main.cc\"",
+  "file": "C:/Users/Fiamma Antonella/Desktop/Algoritmos 1/TP/TPI/template-alumnos/template-alumnos/lib/googletest-master/googletest-master/googletest/src/gtest_main.cc"
+}
+]
